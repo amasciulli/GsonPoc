@@ -1,0 +1,10 @@
+[
+  {
+    "type" : "dog",
+    "paws" : 4
+  },
+  {
+    "type" : "bird",
+    "wings" : 2
+  }
+]
